@@ -62,5 +62,6 @@ console.log(reptiles);
 console.log(`reptiles: ${reptiles}`);
 const amphibians =(animals[2]);
 console.log(amphibians);
-console.log(`amphibians: ${amphibians}`);
+console.log(`amphibians: ${amphibians
+
 
